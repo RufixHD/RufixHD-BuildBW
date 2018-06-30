@@ -1,0 +1,9 @@
+name: BuildBW
+version: 1.0
+author: RufixHD
+main: net.Spieleoase.Rufix.BuildBw.BuildBw
+
+commands:
+  buildbw:
+  stats:
+  start:

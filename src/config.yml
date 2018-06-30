@@ -1,0 +1,8 @@
+DatabaseHost: localhost
+DatabaseName: BuildBW
+DatabaseUser: user
+DatabasePassword: pass
+DatabasePort: 3306
+Mapname: Mapname
+SetupMode: true
+locations:
